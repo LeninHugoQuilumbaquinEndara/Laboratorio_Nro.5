@@ -15,7 +15,18 @@
 ### 1.- Objetivos
 **Objetivo general :**
 
-**Objetivo Específico :**
+•	Analizar un circuito eléctrico para simplificar los cálculos de un sistema eléctrico complejo por un circuito equivalente más simple.
+
+**Objetivos Específicos :**
+
+•	Afianzar los conocimientos sobre cómo obtener el Equivalente de Thevenin de una red cualquiera.
+
+•	Encontrar circuitos equivalentes de manera simple y rápida en circuitos que a simple vista se ven muy complicados.
+
+•	Comprobar experimentalmente que se cumpla el teorema de Thevenin estudiado en este Laboratorio.
+
+•	Verificar los parámetros Vth y Rth determinados para el teorema de Thevenin en esta práctica de laboratorio.
+
 
 ### 2.- Marco Teorico
 
@@ -64,3 +75,14 @@
 ### 4.- Calculo de Error
 ### 5.- Videos
 ### 6.- Conclusiones
+
+•	Al concluir la práctica concluimos que este teorema es muy útil porque nos permite reducir una red de configuración completa en una de configuración sencilla y así permitirnos realizar más rápido los cálculos.
+
+•	Concluimos que todo circuito por más complejo que sea, visto desde dos terminales concretos, es equivalente a un generador ideal de tensión en serie con una resistencia.
+
+•	Nos dimos cuenta que al aplicar el teorema de Thevenin no existe complejidad, pero si nos ayuda mucho para poder resolverlo de una manera más fácil. 
+
+•	 Al aplicar Teorema de Thevenin el circuito equivalente tendrá una fuente y una resistencia en serie. 
+
+
+
