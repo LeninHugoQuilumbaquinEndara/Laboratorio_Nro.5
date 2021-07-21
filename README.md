@@ -53,8 +53,11 @@
 ![image](https://user-images.githubusercontent.com/84586923/126569226-26fffe1a-6c61-4d31-8490-9bcc4c7046d2.png)
 
 **Calculos Analiticos**
-![image](https://user-images.githubusercontent.com/84586923/126569774-83313659-e6da-4ac4-894a-3c29a2f39d91.png)
-![image](https://user-images.githubusercontent.com/84586923/126569785-2f87d0fd-d24a-45de-9fbe-2b0747c19ff3.png)
+![image](https://user-images.githubusercontent.com/84586923/126570043-7cbb92f9-64a5-4259-8917-d85272509963.png)
+![image](https://user-images.githubusercontent.com/84586923/126570079-08933128-3426-4b64-8b4c-a504c4beb80d.png)
+![image](https://user-images.githubusercontent.com/84586923/126570111-8ee79099-4ad4-4505-81d0-cf1aca8bf804.png)
+![image](https://user-images.githubusercontent.com/84586923/126570137-d0aa5f08-ddf3-4276-8902-31e9810b1fca.png)
+
 
 
 
