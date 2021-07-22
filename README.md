@@ -74,7 +74,10 @@
 ![image](https://user-images.githubusercontent.com/84586923/126570137-d0aa5f08-ddf3-4276-8902-31e9810b1fca.png)
 
 ### 4.- Calculo de Error
-### 5.- Videos
+### 5.- Video
+
+https://www.youtube.com/watch?v=AcLSwCPuIuQ
+
 ### 6.- Conclusiones
 
 •	Al concluir la práctica concluimos que este teorema es muy útil porque nos permite reducir una red de configuración completa en una de configuración sencilla y así permitirnos realizar más rápido los cálculos.
