@@ -29,9 +29,11 @@
 
 
 ### 2.- Marco Teorico
+![Diagrama en blanco (7)](https://user-images.githubusercontent.com/84586923/126580991-15663935-a40e-4cff-9f0f-ee902e3798b2.png)
 
 ### 3.- Explicacion Del Procedimiento
 **Material y Equipo Requerido**
+
 | Cantidad     | Elemento |
 | --------- | -----:|
 |2  |Fuente de Voltaje C.D |
@@ -43,11 +45,12 @@
 | 1 |Resistor de 1 kΩ|
 | 1 |Potenciómetro de precisión de 1kΩ|
 | 1 |Protoboard|
-**3.1**Arme el circuito que se muestra en la figura 5.1.
+
+**3.1** Arme el circuito que se muestra en la figura 5.1.
 
 ![image](https://user-images.githubusercontent.com/84586923/126568364-b6c68ca0-ec56-4c8d-9b76-1e14df4604c9.png)
 
-**3.2**Mida el voltaje y la corriente en el resistor R5
+**3.2** Mida el voltaje y la corriente en el resistor R5
 
 ![image](https://user-images.githubusercontent.com/84586923/126568633-06433a88-83bb-4421-bc64-3f89a63906b5.png)
 
@@ -55,22 +58,20 @@
 
 ![image](https://user-images.githubusercontent.com/84586923/126568978-56070fcd-0111-43b5-9a2f-a7861ecba567.png)
 
-**3.4**Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
+**3.4** Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
 
 ![image](https://user-images.githubusercontent.com/84586923/126569129-d7ec2e51-60cc-4012-ada5-bbf269f78bbb.png)
 
-**3.5**Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.
+**3.5** Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.
 
 ![image](https://user-images.githubusercontent.com/84586923/126569226-26fffe1a-6c61-4d31-8490-9bcc4c7046d2.png)
 
 **Calculos Analiticos**
+
 ![image](https://user-images.githubusercontent.com/84586923/126570043-7cbb92f9-64a5-4259-8917-d85272509963.png)
 ![image](https://user-images.githubusercontent.com/84586923/126570079-08933128-3426-4b64-8b4c-a504c4beb80d.png)
 ![image](https://user-images.githubusercontent.com/84586923/126570111-8ee79099-4ad4-4505-81d0-cf1aca8bf804.png)
 ![image](https://user-images.githubusercontent.com/84586923/126570137-d0aa5f08-ddf3-4276-8902-31e9810b1fca.png)
-
-
-
 
 ### 4.- Calculo de Error
 ### 5.- Videos
@@ -85,6 +86,8 @@
 •	 Al aplicar Teorema de Thevenin el circuito equivalente tendrá una fuente y una resistencia en serie. 
 
 ### 7. Bibliografia: 
+- Area tecnologia. (24 de 02 de 2018). areatecnologia.com. Obtenido de https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
+- XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
 
 
 
