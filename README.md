@@ -11,7 +11,7 @@
 **Parcial:**  2
 
 **Laboratorio Nro: 5**
-### Tema : Teorema de Thevenin
+### Tema : Teorema de Thévenin
 ### 1.- Objetivos
 **Objetivo general :**
 
@@ -19,13 +19,13 @@
 
 **Objetivos Específicos :**
 
-•	Afianzar los conocimientos sobre cómo obtener el Equivalente de Thevenin de una red cualquiera.
+•	Afianzar los conocimientos sobre cómo obtener el Equivalente de Thévenin de una red cualquiera.
 
 •	Encontrar circuitos equivalentes de manera simple y rápida en circuitos que a simple vista se ven muy complicados.
 
-•	Comprobar experimentalmente que se cumpla el teorema de Thevenin estudiado en este Laboratorio.
+•	Comprobar experimentalmente que se cumpla el teorema de Thévenin estudiado en este Laboratorio.
 
-•	Verificar los parámetros Vth y Rth determinados para el teorema de Thevenin en esta práctica de laboratorio.
+•	Verificar los parámetros Vth y Rth determinados para el teorema de Thévenin en esta práctica de laboratorio.
 
 
 ### 2.- Marco Teorico
@@ -95,9 +95,9 @@ https://www.youtube.com/watch?v=AcLSwCPuIuQ
 
 •	Concluimos que todo circuito por más complejo que sea, visto desde dos terminales concretos, es equivalente a un generador ideal de tensión en serie con una resistencia.
 
-•	Nos dimos cuenta que al aplicar el teorema de Thevenin no existe complejidad, pero si nos ayuda mucho para poder resolverlo de una manera más fácil. 
+•	Nos dimos cuenta que al aplicar el teorema de Thévenin no existe complejidad, pero si nos ayuda mucho para poder resolverlo de una manera más fácil. 
 
-•	 Al aplicar Teorema de Thevenin el circuito equivalente tendrá una fuente y una resistencia en serie. 
+•	 Al aplicar Teorema de Thévenin el circuito equivalente tendrá una fuente y una resistencia en serie. 
 
 ### 7. Bibliografia: 
 - Area tecnologia. (24 de 02 de 2018). areatecnologia.com. Obtenido de https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
