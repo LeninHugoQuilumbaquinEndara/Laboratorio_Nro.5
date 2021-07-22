@@ -73,6 +73,14 @@
 ![image](https://user-images.githubusercontent.com/84586923/126570111-8ee79099-4ad4-4505-81d0-cf1aca8bf804.png)
 ![image](https://user-images.githubusercontent.com/84586923/126570137-d0aa5f08-ddf3-4276-8902-31e9810b1fca.png)
 
+**3.6** Valores del Circuito Equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/84586923/126584304-7c1ed889-9360-40fb-a74a-4c579c531967.png)
+
+**3.7** Comprobación del Teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/84586923/126584277-8ba5697a-5c8d-4cf7-995c-0fcb97fdba8d.png)
+
 ### 4.- Calculo de Error
 ### 5.- Video
 
