@@ -82,6 +82,9 @@
 ![image](https://user-images.githubusercontent.com/84586923/126584277-8ba5697a-5c8d-4cf7-995c-0fcb97fdba8d.png)
 
 ### 4.- Calculo de Error
+
+![image](https://user-images.githubusercontent.com/84586923/126585029-46c93091-d2f0-4eb4-b05c-a6fe90ccc7fa.png)
+
 ### 5.- Video
 
 https://www.youtube.com/watch?v=AcLSwCPuIuQ
