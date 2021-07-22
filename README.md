@@ -84,5 +84,7 @@
 
 •	 Al aplicar Teorema de Thevenin el circuito equivalente tendrá una fuente y una resistencia en serie. 
 
+### 7. Bibliografia: 
+
 
 
